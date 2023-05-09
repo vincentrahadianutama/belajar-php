@@ -11,7 +11,7 @@
 <body>
     <?php
     $strlen = "Nama saya adalah Vincent";
-    echo "Jumlah karakter: ". strlen($strlen);//jumlah karakter 24
+    echo "Jumlah karakter: ". strlen($strlen);
     ?>
 </body>
 

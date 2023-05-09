@@ -12,7 +12,7 @@
     <?php
     $strpos = "Saat ini saya sudah mencapai materi php";
     $searchStrpos = "php"; "Javascript";
-    echo strpos($strpos, $searchStrpos,);
+    echo strpos($strpos, $searchStrpos);
 
     $strpos1 = "Aku telah melalui tahapan belajar php string, sekarang telah mencapai tahapan strpos";
     $searchStrpos1 = "belajar php string"; "strlen";

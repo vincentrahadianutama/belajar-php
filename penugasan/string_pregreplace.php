@@ -15,8 +15,7 @@
     $ganti = "preg_replace";
     echo preg_replace($cari, $ganti, $kalimatString);
 
-    //ini contoh penggunaan 1
-    //echo preg_replace("/sudah/", "belum", "Karakter zilong sudah selesai");
+    
     ?></p>
 
     <p>
@@ -26,8 +25,7 @@
     $ganti = "php";
     echo preg_replace($cari, $ganti, $kalimatString1);
 
-    //ini contoh penggunaan 1
-    //echo preg_replace("/sudah/", "belum", "Karakter zilong sudah selesai");
+    
     ?></p>
     
 </body>

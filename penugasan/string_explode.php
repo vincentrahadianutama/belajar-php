@@ -15,7 +15,7 @@
     print_r($explode); 
     ?></p>
     <p><?php
-    $bahasa = "html,css,javascript,php";
+    $bahasa = "html-css-javascript-php";
     $explode1 = explode("-", $bahasa);
     print_r($explode1); 
     ?></p>
